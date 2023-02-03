@@ -1,0 +1,271 @@
+[{
+        "mushroom": "Borowik szatański",
+        "description": "Trujący. Niedogotowany powoduje silne niedyspozycje żołądkowo-jelitowe. Dobrze ugotowany podobno daje się zjeść bez obawy. ",
+        "picture": "https://ocdn.eu/pulscms-transforms/1/Puak9kpTURBXy84YWVmNmQ4MDYzZjRlZDhiZTZkZjZmNDQ4ZGUzN2NiMC5qcGeSlQMAzGrNA-jNAjOTBc0DAs0BkN4AAaEwBQ"
+    },
+    {
+        "mushroom": "Pieprznik jadalny (Kurki)",
+        "description": "Jadalny. Podstawowa zaleta to przyjemny aromat i smak, praktycznie nigdy nie są opanowane przez larwy owadów i w stanie świeżym są stosunkowo trwałe (można je przechować przez kilka dni). Najczęściej zjadany świeży na gęsto i w sosach. Suszona traci wszystko. Marynata też nie pozostawia żadnych walorów ale przynajmniej zostaje zachowana konsystencja. ",
+        "picture": "https://zasoby.ekologia.pl/artykulyNew/20508/xxl/shutterstock-1418450570_800x600.jpg"
+    },
+    {
+        "mushroom": "Mleczaj rydz",
+        "description": "Jadalny. W opinii wielu najlepszy grzyb jadalny. Rzeczywiście są smaczne, tradycyjnie są smażone na patelni na świeżym maśle. Właściwy rydz rośnie wyłącznie pod sosnami. Pod innymi drzewami iglastymi rośną inne bardzo podobne gatunki rydzów ale istotnie różniące się walorami smakowymi. ",
+        "picture": "https://bi.im-g.pl/im/3d/87/16/z23622461IER,Mleczaj-rydz--inaczej-rydz-smaczny-lub-prawdziwy--.jpg"
+    },
+    {
+        "mushroom": "Gąska zielonka",
+        "description": "Jadalny.Rosną późną jesienią pod sosnami na glebach piaszczystych, często masowo, więc ich zbieranie jest bardzo przyjemne. Mogą być przyrządzane na gęsto lub marynowane, mają ciekawą, lekko chrupiącą konsystencję. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tricholoma_equestre_G7.jpg"
+    },
+    {
+        "mushroom": "Berłóweczka czeska",
+        "description": "Berłóweczka czeska to niezwykle rzadki w Polsce, niejadalny grzyb z rodziny pieczarkowatych Agaricaceae. Podlega ochronie ścisłej bez możliwości wyłączeń spod ochrony, uzasadnionych względami racjonalnej gospodarki rolnej, leśnej bądź rybackiej. Jej owocnik zamiast typowego kapelusza z blaszkami lub rurkami wytwarza tzw. główkę",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/425/Tulostoma-kotlabae_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek chmurny",
+        "description": "Gołąbek chmurny to grzyb jadalny i smaczny. Gołąbka chmurnego znaleźć można w okresie od czerwca do września. Najczęściej rośnie w lasach mieszanych i liściastych - pod drzewami, rzadziej spotkać go można w lasach jodłowych i świerkowych. Kapelusz gołąbka chmurnego osiąga średnicę od 5 do 12 cm. Ma wypukły kształt, który zmienia się wraz z wiekiem - staje się wówczas wklęsły. Przybiera charakterystyczne nasycone barwy - od ciemno niebieskozielonej, poprzez zielononiebieską, aż po sino-gołębią.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/140/Russula-parazurea-1_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek błotny",
+        "description": "Gołąbek błotny jest grzybem jadalnym, pospolicie występującym na terenie całej Polski. Można go spotkać zarówno na nizinach, jak i w górach. Grzybiarze cenią sobie jego łagodny i delikatny smak.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/34/russula-paludosa-f5_org.jpg"
+    },
+    {
+        "mushroom": "Gęśnica wiosenna",
+        "description": "Gęśnica wiosenna jest grzybem jadalnym. W Polsce jest gatunkiem pospolitym. Gęśnica wiosenna występuje od kwietnia do czerwca. Czasami również w lipcu i późną jesienią. Gęśnica wiosenna rośnie przeważnie poza lasem, głównie na łąkach i pastwiskach, w ogrodach, na  wyżynach i terenach podgórskich, na niżu, na obrzeżach lasów, w ogrodach i zaroślach.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/91/800px-calocybe-gambosa-080420wa-cropped_org.jpg"
+    },
+    {
+        "mushroom": "Gąsówka brudnofioletowa",
+        "description": "Gąsówka brudnofioletowa jest grzybem jadalnym, choć ze względu na swój oryginalny - fioletowy kolor, nie jest często zbierana. Rośnie od lipca do października. Grzyb ten spotkać można w wielu różnych miejscach, w tym przede wszystkim na otwartych przestrzeniach - na łąkach i pastwiskach, w ogrodach i po prostu na ziemi.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/134/535px-2008-10-11_Lepista_sordida_20505_cropped_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek fiołkowozielony",
+        "description": "Gołąbek fiołkowozielony to jeden ze smaczniejszych i piękniejszych przedstawicieli rodziny gołąbkowatych Russulaceae. Gołąbek fiołkowozielony wytwarza owocniki latem, od czerwca-lipca do września-października. Najważniejszym partnerem mikoryzowym tego grzyba jest buk. O wiele rzadziej tworzy mikoryzę z lipą, leszczyną, grabami i dębami.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/316/Russula-ionochlora-lindsey_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek śledziowy",
+        "description": "Gołąbek śledziowy jest pospolicie występującym w Polsce grzybem jadalnym. Nie jest jednak ceniony w środowisku zbieraczy ze względu na swój specyficzny zapach przypominający śledzia. Z tego samego powodu nie znalazł dużego uznania w branży gastronomicznej. Gołąbek śledziowy pojawia się w lasach latem i rośnie do późnej jesieni. Gołąbek śledziowy występuje w lasach iglastych i mieszanych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/39/1280px-russula-xerampelina-jpg1_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek szary",
+        "description": "Gołąbek szary to grzyb jadalny, ale zasługujący na ochronę, rzadki i ginący w naszym kraju, członek rodziny gołąbkowatych Russulaceae oraz podrodzaju (sekcji) Heterophylleae. Gołąbek szary zawiązuje owocniki nader wcześnie, gdyż od końca maja do połowy września, bardzo rzadko później. Gołąbek szary występuje na zachodzie (UK, Holandia, Francja) i południu Europy (od Balearów i Hiszpanii po Mołdawię)",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/371/800px-Russula-grisea_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek płowiejący",
+        "description": "Gołąbek płowiejący to grzyb jadalny, który jest bardzo smaczny. Gołąbek płowiejący rośnie od lipca do października. Najczęściej można spotkać gołąbka płowiejącego w wilgotnych lasach iglastych - pod sosnami i świerkami.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/144/800px-2011-08-28-Russula-decolorans-Fr-165010_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek oliwkowozielony",
+        "description": "Gołąbek oliwkowozielony jest grzybem jadalnym. W smaku ustępuje innym gołąbkom, dlatego nie jest zbyt popularny wśród grzybiarzy. W Polsce występuje rzadko i jest objęty ścisłą ochroną. Inne nazwy stosowane dla tego grzyba to: gołąbek widlasty i gołąbek kremowobiały.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/58/799px-russula-heterophylla-a1_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek lazurowy",
+        "description": "Gołąbek lazurowy to saprofityczny grzyb, często o niesamowitej, lazurowej bądź ametystowej barwie kapeluszy, należący do rodziny gołąbkowatych, w jej obrębie zaś do podrodzaju (sekcji) Lilaceae. Gromadzi ona średniej wielkości gołąbki z ochrowym lub jsno złocistym wysypem spor, nader ciemnym (szarym bądź czarnym) miąższu, owocnikach niemal w całości dość przyjemnych w smaku, co najwyżej z lekko palącymi blaszkami.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/330/800px-Russula-azurea-G2-3_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek jadalny",
+        "description": "Gołąbek jadalny jest jednym z najsmaczniejszych grzybów należących do rodziny gołąbkowatych. W Polsce jest bardzo pospolity i ceniony przez zbieraczy za przyjemny i łagodny smak.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/10/russ-ves_org.jpg"
+    },
+    {
+        "mushroom": "Kolczak obłączasty",
+        "description": "Kolczak obłączasty jest grzybem jadalnym. Kolczak obłączasty pospolity występuje w Polsce. Rośnie od lipca do listopada. Znaleźć go można we wszystkich typach lasów. ",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/85/kolczak-oblaczasty_org.jpg"
+    }, {
+        "mushroom": "Goryczak żółciowy",
+        "description": "Goryczak żółciowy nie wykazuje właściwości trujących i jest grzybem jadalnym, jednak bardzo gorzki smak powoduje, że nie jest w ogóle wykorzystywany w kuchni. Wystarczy niewielka część tego grzyba, by skutecznie popsuć smak całej potrawy. W niektórych przypadkach spożycie tego grzyba może powodować dolegliwości żołądkowe.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/76/800px-tylopilus-felleus-060914c_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek złotawy",
+        "description": "Gołąbek złotawy to stosunkowo duży, miły w smaku, leśny grzyb z rodziny gołąbkowatych Russulaceae i podrodzaju (sekcji) Coccinae. Spośród pozostałych gołąbków wyróżnia się jaskrawym, złocistym lub pomarańczowym kolorem, przypominającym zabarwienie pieprznika jadalnego (kurek).",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/354/shutterstock-1284004261_org.jpg"
+    },
+    {
+        "mushroom": "Gołąbek zielonawy",
+        "description": "Gołąbek zielonawy jest grzybem jadalnym, uważanym za jeden z najsmaczniejszych gatunków gołąbków. Na terenie Polski jest dość pospolity i bardzo ceniony przez grzybiarzy za walory smakowe i zapach.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/36/1280px-russula-virescens3_org.jpg"
+    },
+
+    {
+        "mushroom": "Koźlarz topolowy",
+        "description": "Koźlarz topolowy należy do rodziny grzybów borowikowatych. Jest grzybem jadalnym, rzadko spotykanym w polskich lasach. Nie należy jednak do gatunków zagrożonych na terenie naszego kraju. Przez zbieraczy ceniony jest za dobry, łagodny smak. Koźlarz topolowy rośnie od lipca do października. Koźlarz topolowy występuje w lasach liściastych i mieszanych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/16/640px-leccinum-duriusculum-g4-1_org.jpg"
+    },
+    {
+        "mushroom": "Koźlarz świerkowy",
+        "description": "Koźlarz świerkowy to smaczny grzyb jadalny z rodziny borowikowatych Boletaceae, którego występowanie w Polsce budzi spory wśród fachowców. Pod wieloma względami przypomina lepiej znane, pospolitsze u nas koźlarze: sosnowego czy pomarańczowożółtego.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/224/shutterstock-1186333279_org.jpg"
+    },
+    {
+        "mushroom": "Koźlarz sosnowy",
+        "description": "Koźlarz sosnowy to wyborny w smaku, ale zasługujący na ochronę z racji swej rzadkości grzyb z rodziny borowikowatych Boletaceae. W Polsce uznano go za gatunek rzadki i potencjalnie zagrożony wymarciem, przyznając mu status R na Czerwonej Liście grzybów.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/341/shutterstock-615470168_org.jpg"
+    },
+    {
+        "mushroom": "Koźlarz babka",
+        "description": "Koźlarz babka jest grzybem jadalnym, pochodzącym z rodziny borowikowatych. W Polsce jest bardzo pospolity, a grzybiarze cenią sobie dobry smak młodych okazów. Koźlarz babka rośnie od maja do października. Koźlarz babka występuje w lasach liściastych i mieszanych, często na obrzeżach, a nawet poza lasem.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/14/kozlarz_org.jpg"
+    },
+    {
+        "mushroom": "Maślak rdzawobrązowy",
+        "description": "Maślak rdzawobrązowy to grzyb jadalny, który występuje rzadko w Polsce. W Polsce grzyb ten występuje od września do listopada. Maślak rdzawobrązowy występuje w Europie, licznie we Włoszech, Francji oraz Szwajcarii. Poza Europą rośnie w Australii.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/158/800px-2007-09-22-Suillus-collinitus-12201_org.jpg"
+    },
+    {
+        "mushroom": "Maślak błotny",
+        "description": "Maślak błotny to bardzo rzadki, niemal wymarły w Polsce grzyb z rodziny maślakowatych Suillaceae, przywiązany do torfowisk wysokich (kwaśnych). Maślak błotny produkuje owocniki od sierpnia do października.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/310/T-ebo-sko-Suillus-flavidus-01_org.jpg"
+    },
+    {
+        "mushroom": "Maślak sitarz",
+        "description": "Maślak sitarz jest pospolicie występującym w Polsce grzybem jadalnym. Ze względu na niezbyt dobry smak, spożywany jest głównie z połączeniu z innymi odmianami grzybów np. borowikiem. W sieci można znaleźć liczne przepisy kulinarne na smakowite dania z takich mieszanek! Sitarze to grzyby, które można zbierać przez kilka miesięcy w roku. Zaczynają rosnąć już na początku czerwca i sezon na nie trwa nieprzerwanie do listopada.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/18/maslak-sitarz_org.jpg"
+    },
+    {
+        "mushroom": "Maślak zwyczajny",
+        "description": "Maślak zwyczajny jest bardzo smacznym grzybem jadalnym. Występuje pospolicie w całej Polsce, najczęściej na nizinach. Jest bardzo ceniony przez grzybiarzy, ze względu na swój smak oraz wartości odżywcze. Sezon na maślaka zwyczajnego zaczyna się w maju i trwa do listopada. Maślak zwyczajny występuje w lasach iglastych, tworzy mikoryzę z sosnami.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/20/640px-suillus-luteus-2_org.jpg"
+    },
+    {
+        "mushroom": "Mleczaj rydz",
+        "description": "Mleczaj rydz jest grzybem jadalnym. Uważany za jeden ze smaczniejszych grzybów. W Polsce jest pospolity. Mleczaj rydz występuje od sierpnia do listopada. Mleczaj rydz rośnie w lasach i młodnikach iglastych. Jest związany mikoryzą z sosną.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/96/800px-lactarius-deliciosus-finland_org.jpg"
+    },
+    {
+        "mushroom": "Muchomor twardawy",
+        "description": "Muchomor twardawy jest grzybem jadalny, pospolicie występującym na terenie Polski. Jest jednak rzadko zbierany przez grzybiarzy ze względu na brak wartości smakowych i duże podobieństwo z silnie trującym muchomorem plamistym. Muchomor twardawy rośnie od czerwca od października. Muchomor twardawy występuje w lasach iglastych, ale czasem można go też spotkać w lasach liściastych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/29/615px-2008-07-07-amanita-excelsa-colors-corrected_org.jpg"
+    },
+    {
+        "mushroom": "Naparstniczka czeska",
+        "description": "Naparstniczka czeska to grzyb jadalny o bardzo charakterystycznym wyglądzie, który jest bardzo ceniony kulinarnie. Naparstniczka czeska rośnie najczęściej w lasach liściastych, parkach i zaroślach. Naparstniczka czeska wyrastają od końca marca do maja.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/173/481px-Verpa-bohemica1_org.jpg"
+    },
+    {
+        "mushroom": "Naparstniczka stożkowata",
+        "description": "Naparstniczka stożkowata należy do grzybów jadalnych z rodziny smardzowatych. W Polsce ten gatunek spotykany raczej rzadko. Naparstniczka stożkowata rośnie wczesną wiosną - w kwietniu/maju. Zdarzają się też owocniki czerwcowe. Naparstniczka stożkowata to gatunek, który lubi tereny wilgotne, mało zacienione. Spotykany w lasach liściastych",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/211/Verpa-conica-free-cap_org.jpg"
+    },
+    {
+        "mushroom": "Pieczarka dwuzarodnikowa",
+        "description": "Pieczarka dwuzarodnikowa w środowisku naturalnym występuje rzadko. Powszechnie uprawiana jest w specjalnych zakładach produkcyjnych zwanych pieczarkarniami, skąd trafia do sklepów, a następnie na nasze stoły. Pieczarka dwuzarodnikowa w warunkach naturalnych pojawia się w maju i rośnie do września. W środowisku pieczarka dwuzarodnikowa występuje rzadko.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/41/1280px-agaricus-bisporus-g4_org.jpg"
+    },
+    {
+        "mushroom": "Pieczarka kępkowa",
+        "description": "Pieczarka kępkowa to bardzo rzadki w Polsce, grzyb jadalny z rodziny pieczarkowatych. Pieczarka kępkowa zawiązuje owocniki od lipca-sierpnia do początków listopada. Pieczarka kępkowa spotykana bywa w wielu typach ekosystemów od lasów liściastych przez mieszane, ogrody, przydroża do parków i cmentarzy całej Europy.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/327/800px-Agaricus-bohusii-771784_org.jpg"
+    },
+    {
+        "mushroom": "Opieńka cebulotrzonowa",
+        "description": "Opieńka cebulotrzonowa Armillaria cepistipes to jeden z kilku gatunków, jakich do końca XX w. nawet uczeni mikolodzy nie odróżniali od opieńki miodowej A. mellea. Dziś natomiast wyróżnia się co najmniej pięć nieodróżnianych zwykle przez grzybiarzy, drobnych gatunków, tworzących tak zwany „kompleks opieńkowy”.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/247/shutterstock-1209602518_org.jpg"
+    },
+    {
+        "mushroom": "Pieczarka miejska",
+        "description": "Pieczarka miejska jest bardzo smacznym grzybem jadalnym. W przeciwieństwie do innych grzybów upodobała sobie tereny miejskie – można ją spotkać rosnącą nawet w środku miasta – natomiast nigdy nie występuje w lasach.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/61/1280px-agaricus-bitorquis-01_org.jpg"
+    },
+    {
+        "mushroom": "Pieczarka purpurowa",
+        "description": "Pieczarka purpurowa to rzadka w Polsce, przedstawicielka rodziny pieczarkowatych Agaricaceae, reprezentująca podrodzaj Minores. Pieczarka purpurowa wytwarza owocniki od końca lipca do początków października. Pieczarkę purpurową notowano w Eurazji, obu Amerykach oraz płn. Afryce.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/329/Agaricus_org.jpg"
+    },
+    {
+        "mushroom": "Podgrzybek złotawy",
+        "description": "Podgrzybek złotawy jest najpospolitszym, jadalnym grzybem rurkowym. Niestety ma tendencję do szybkiego psucia się, dlatego ma małą przydatność do przerobu. Podgrzybek złotawy pojawia się w czerwcu. Można go zbierać do listopada. Podgrzybek złotawy występuje w lasach iglastych i liściastych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/33/640px-xerocomellus-chrysenteron-g4_org.jpg"
+    },
+    {
+        "mushroom": "Podgrzybek żeberkowany",
+        "description": "Podgrzybek żeberkowany jest grzybem jadalnym. Podgrzybek żeberkowany występuje od lipca do października. Podgrzybek żeberkowany rośnie pojedynczo lub w rozproszeniu po kilka sztuk. Najczęściej spotkać można tego grzyba w lasach iglastych, liściastych i mieszanych, głównie w górach i terenach podgórskich.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/192/800px-Boletus-ferrugineus_org.jpg"
+    },
+    {
+        "mushroom": "Podgrzybek brunatny",
+        "description": "Podgrzybek brunatny jest jednym z najbardziej cenionych grzybów jadalnych. Swoim smakiem, co prawda, nie dorównuje borowikowi szlachetnemu, ale cieszy się wśród grzybiarzy równie dużym powodzeniem. Sezon na podgrzybka brunatnego trwa od czerwca do listopada. Podgrzybek brunatny występuje w lasach iglastych i mieszanych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/30/639px-boletus-badius-g1_org.jpg"
+    },
+    {
+        "mushroom": "Purchawka czarniawa",
+        "description": "Purchawka czarniawa to jadalny grzyb z rodziny pieczarkowatych. Purchawka czarniawa pojawia się od sierpnia do listopada. Purchawka czarniawa rośnie w Europie i Ameryce Północnej oraz Japonii. W Polsce występuje raczej rzadko. Wyrasta w lasach iglastych i liściastych. Można ją również spotkać na łąkach i w zaroślach. Rośnie na ziemi.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/168/Lycoperdon-nigrescens-G5_org.jpg"
+    },
+    {
+        "mushroom": "Purchawka fiolowata",
+        "description": "Purchawka fiolowata to grzyb znany również pod nazwą czasznica workowata. Jest grzybem jadalnym, ale do spożycia nadają się tylko młode okazy, kiedy wnętrze owocnika jest białe. Owocniki purchawki fiolowatej wyrastają od lipca do listopada. Purchawka fiolowata najczęściej rośnie w lasach iglastych i liściastych oraz miejscach takich jak łąki, polany, parki, tory kolejowe. Występuje pospolicie w Polsce.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/171/800px-Lycoperdon-excipuliforme-BZ7_org.jpg"
+    },
+    {
+        "mushroom": "Sarniak sosnowy",
+        "description": "Sarniak sosnowy jest okazałym grzybem jadalnym, należącym do kolcownicowatych Bankeraceae, łudząco podobnym do sarniaka dachówkowatego. Dotychczas nie opracowano katalogu cech pozwalających precyzyjnie odróżnić sarniaka sosnowego od świerkowego (dachówkowatego). Sarniak sosnowy zawiązuje owocniki latem i jesienią",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/278/shutterstock-1306444591_org.jpg"
+    },
+    {
+        "mushroom": "Trufla wgłębiona",
+        "description": "Trufla wgłębiona zaliczana jest do gatunków grzybów jadalnych. Należy do grzybów symbiotycznych. Zazwyczaj współżyje z leszczynami, bukami, dębami, brzozami czy sosnami. Owocniki  trufli wgłębionej pojawiają się jesienią, zimą. Gatunek trufli wgłębionej preferuje miejsca wilgotne, cieniste z przewagą drzew, z którymi współżyje. Najczęściej pojawia się na terenach pagórkowatych, zboczach i nierównościach.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/204/800px-lan_org.jpg"
+    },
+    {
+        "mushroom": "Trufla biała",
+        "description": "Trufla biała jest bardzo smacznym grzybem jadalnym, o niezwykłym, intensywnym aromacie. Uznawana jest za jeden z najsmaczniejszych i najcenniejszych grzybów na świecie. Owocniki trufli białej (zwane u workowców askokarpami) rozwijają się przede wszystkim od końca września. Trufla biała występuje głównie w lasach liściastych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/62/shutterstock-120802624_org.jpg"
+    },
+    {
+        "mushroom": "Trzęsak morszczynowaty",
+        "description": "Trzęsak morszczynowaty to grzyb jadalny, częsty w tropikach członek rodziny trzęsakowatych Tremellaceae. Dawniej uważano, iż rozwija się na próchniejącym drewnie drzew i krzewów liściastych. Dziś wiemy, że jest pasożytem innych grzybów rozkładających drewno. Trzęsak morszczynowaty jako gatunek tropikalny, a zarazem hodowany w warunkach kontrolowanych, tworzy owocniki przez cały rok.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/423/shutterstock-766098751_org.jpg"
+    },
+    {
+        "mushroom": "Wodnicha biała",
+        "description": "Wodnicha biała jest jadalnym, ale raczej nie zbieranym w Europie grzybem z rodziny wodnichowatych Hygrophoraceae. Owocniki wodnichy białej znaleźć można od sierpnia do listopada. Wodnichę białą widuje się w całej Europie, na Bliskim Wschodzie, w płn. Afryce.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/409/shutterstock-61337365_org.jpg"
+    },
+    {
+        "mushroom": "Żagwica listkowata",
+        "description": "Żagwica listkowata to ogromna, rzadka oraz ginąca w całej niemal Europie huba objęta ochroną częściową w Polsce, spotykana w lasach liściastych oraz starych alejach dębowych, rzadziej lipowych i bukowych. Żagwica listkowata zawiązuje owocniki od lipca do października, z maksimum w sierpniu i wrześniu. Żagwicę listkowatą notowano w całej Europie, od krajów basenu Morza Śródziemnego po Skandynawię.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/240/shutterstock-1403042561_org.jpg"
+    },
+    {
+        "mushroom": "Boczniak białożółty",
+        "description": "Boczniak białożółty to grzyb jadalny, który posiada bardzo łykowaty miąższ, z tego względu nie jest zbierany zbyt często. Boczniak białożółty rośnie od lipca do października. Boczniak białożółty jest bardzo popularny - spotkać go można w różnych miejscach, przede wszystkim w różnego typu lasach, parkach i ogrodach.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/127/Pleurotus_dryinus5_(1)_org.jpg"
+    },
+    {
+        "mushroom": "Borowik blednący",
+        "description": "Borowik blednący to rzadki i ginący w skali Europy grzyb z rodzaju Butyriboletus, obejmującego formy pośrednie między typowymi maślakami a typowymi borowikami . Borowik blednący wytwarza owocniki od czerwca-lipca do końca września, rzadziej do października jeżeli jesień jest wyjątkowo gorąca, ale i wilgotna. Rozmieszczenie borowika blednącego wymaga dalszych badań.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/299/borowik_org.jpg"
+    },
+    {
+        "mushroom": "Borowik ceglastopory",
+        "description": "Borowik ceglastopory jest często poszukiwanym grzybem jadalnym, ze względu na swoje walory smakowe. Przyrządzony w nieodpowiedni sposób jest jednak trujący. Charakterystyczną cechą tego grzyba jest właściwość jego miąższu, który w kontakcie z powietrzem sinieje i przybiera niebieską barwę. Najobficiej występuje latem i wczesną jesienią. Borowik ceglastopory rośnie w lasach iglastych, liściastych i mieszanych",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/1/shutterstock-1822614629_org.jpg"
+    },
+    {
+        "mushroom": "Borowik szlachetny",
+        "description": "Borowik szlachetny, zwany inaczej prawdziwkiem, jest jednym z najbardziej poszukiwanych grzybów jadalnych. Na terenach krajów słowiańskich jego walory smakowe doceniane są od setek lat. Początkowo borowiki były suszone i używane jako przyprawa, z czasem stały się nieodłącznym elementem kuchni szlacheckiej i magnackiej. ezon na borowika szlachetnego zaczyna się już w maju i trwa do listopada. Borowik szlachetny występuje w lasach iglastych, liściastych i mieszanych.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/11/6-borowik-szlachetny-boletus-edulis_org.jpg"
+    },
+    {
+        "mushroom": "Czubajka kania",
+        "description": "Czubajka kania (Macrolepiota procera), czyli bedłka parasolowata lub sowa, to gatunek, który dawniej zaliczany był do rodziny bedłkowatych. To grzyb jadalny, który obecnie należy do rodziny grzybów pieczarkowatych. Czubajka, czyli sowa, rośnie od lipca do października. Należy wiedzieć, że kania czubajka występuje w lasach liściastych, iglastych i mieszanych. Najczęściej rośnie pod bukami.",
+        "picture": "https://zasoby.ekologia.pl/grzyby/a/6/kanie_org.jpg"
+    },
+    {
+        "mushroom": "Trójeczka z przedmiotu",
+        "description": "Trójeczka występuje na każdek uczelni w Polsce. Można ją spotkać w sesji ziomowej i letniej. Trójeczka jest bardzo wyczekiwana przez studentów i bardzo liczą by ją spotkać na zaliczeniu.",
+        "picture": "https://www.supercoloring.com/sites/default/files/fif/2017/11/cartoon-number-3-flashcard-paper-craft.png"
+    }
+]
